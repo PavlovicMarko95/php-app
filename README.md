@@ -12,6 +12,6 @@
 - OOP (Vest, Korisnik, Komentar, Baza)
 
 ## Database
-Database script is included (vesti-db.sql).
+Database script is included (vesti.sql).
 Run it in your SQL server to recreate tables and sample data.# php-app
 PHP News App with admin and user functionality
